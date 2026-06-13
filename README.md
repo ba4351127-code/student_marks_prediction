@@ -12,6 +12,7 @@ Technologies Used:
 • Pandas
 • Scikit-learn
 • Linear Regression
+
 Key Features:
 • Takes study hours as input
 • Predicts expected marks
